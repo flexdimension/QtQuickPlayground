@@ -1,3 +1,7 @@
+.DS_Store
+
+*.autosave
+
 # C++ objects and libs
 
 *.slo
